@@ -165,7 +165,3 @@ PDF, haber ve uzun metinleri otomatik özetleme
 **20 Girilen Malzemeye Göre Tarif Veren Proje**
 
 ![Ekran görüntüsü 2025-05-20 131956](https://github.com/user-attachments/assets/c7c73353-5819-4a08-90ec-4a997230b8e5)
-
-**Projenin Ekran Kaydı**
-
-📽️ [Videoyu izlemek için buraya tıklayın](./assets/Ekran-Kaydi-2025-05-20-144105.mp4)
