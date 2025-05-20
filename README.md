@@ -84,6 +84,18 @@
 
 **Asp.Net Core ile geliştirildi ve kullanıcı arayüzüyle desteklendi.**
 
+### **🫧Projede Kullanılan Teknolojiler ve Araçlar**
+
+**Open AI Api ve servisleri**
+
+**Google Cloud Console Servisleri**
+
+**OCR (Optical Character Recognition) ile görsellerden metin çıkarma**
+
+**Text-to-Speech (TTS) ile metinleri sesli okuma**
+
+**PDF, haber ve uzun metinleri otomatik özetleme**
+
 ### **PROJE GÖRSELLERİ**
 
 **04 Open AI Chat Projesi** 
